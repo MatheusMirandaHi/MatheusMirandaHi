@@ -1,8 +1,10 @@
-# ✌️ Sobre Mim 
+# ✌️ Desenvolvedor FrontEnd
 
 <a href="https://git.io/typing-svg" style="outline: none; border: none;">
   <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Meu+Nome+%C3%A9+Matheus+Miranda." alt="Typing SVG" />
 </a>
+
+**`Sobre Mim`**
 
 Me chamo Matheus Alves de Miranda, sou de Osasco/Sp. Conclui o ensino médio técnico em 2024 no curso de Desenvolvimento de Sistemas na FITO. Atualmente, estou cursando Ciência da Computação na Universidade Presbiteriana Mackenzie. Tenho grande admiração pela área de programação e estou em busca de oportunidades como Desenvolvedor Web FrontEnd, onde possa aplicar e expandir meus conhecimentos.
 
