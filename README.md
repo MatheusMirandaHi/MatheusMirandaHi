@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1!%F0%9F%91%8B+Meu+Nome+%C3%A9+Matheus+Miranda." alt="Typing SVG" />
 </a>
 
-**`Sobre Mim`**
-
-Me chamo Matheus Alves de Miranda, sou de Osasco/Sp. Conclui o ensino médio técnico em 2024 no curso de Desenvolvimento de Sistemas na FITO. Atualmente, estou cursando Ciência da Computação na Universidade Presbiteriana Mackenzie. Tenho grande admiração pela área de programação e estou em busca de oportunidades como Desenvolvedor Web FrontEnd, onde possa aplicar e expandir meus conhecimentos.
+Sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie e concluí o Ensino Médio Técnico em 2024, com especialização em Desenvolvimento de Sistemas pela FITO. Apaixonado por programação, tenho um forte interesse em desenvolvimento web e estou em busca de oportunidades como Desenvolvedor Front-End. Quero aplicar meus conhecimentos adquiridos, enquanto continuo a aprender e crescer profissionalmente na área.
 
 <a href="https://www.linkedin.com/in/dev-matheus-miranda/" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -91,7 +89,7 @@ Me chamo Matheus Alves de Miranda, sou de Osasco/Sp. Conclui o ensino médio té
 ### 🎯 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMirandaHi&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&locale=pt-br" height="180" alt="Matheus's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMirandaHi&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" height="180" alt="Matheus's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMirandaHi&layout=compact&theme=catppuccin_mocha" height="180" alt="Top Langs"/>
 </p>
 
